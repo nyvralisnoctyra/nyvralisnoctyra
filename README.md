@@ -143,30 +143,6 @@ An educational Data Science brand focused on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nyvralisnoctyra&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=nyvralisnoctyra&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyvralisnoctyra&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=nyvralisnoctyra&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🧭 Direction
 
 **Statistics + Data Science + Machine Learning + Business Understanding**
