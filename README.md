@@ -1,4 +1,4 @@
-# 🧠 Nyvralis Noctyra
+# Nyvralis Noctyra
 
 **`Data Scientist in Progress`**
 
