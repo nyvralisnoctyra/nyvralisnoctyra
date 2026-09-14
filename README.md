@@ -130,10 +130,7 @@ An educational Data Science brand focused on:
 
 <!-- END YOUTUBE-CARDS -->
 
-[**Visit YouTube →**](https://www.youtube.com/@NyvralisNoctyra)
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NyvralisNoctyra?sub_confirmation=1)
-
-
 
 ---
 
