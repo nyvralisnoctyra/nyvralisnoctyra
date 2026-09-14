@@ -1,4 +1,4 @@
-# Nyvralis Noctyra
+# Nyvralis Noctyra <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 **`Data Scientist in Progress`**
 
