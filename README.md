@@ -52,9 +52,6 @@ Insight
   ↓
 Decision
 ```
-
----
-
 ## 📚 Currently Learning
 
 **Core**
