@@ -51,6 +51,8 @@ Validation
 Insight
   ↓
 Decision
+```
+```
 
 ## 📚 Currently Learning
 
