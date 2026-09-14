@@ -139,7 +139,7 @@ An educational Data Science brand focused on:
 | X         | [@NNoctyra](https://x.com/NNoctyra)                                         |
 | Threads   | [@nyvralis.noctyra](https://www.threads.com/@nyvralis.noctyra)              |
 | GitHub    | [nyvralisnoctyra](https://github.com/nyvralisnoctyra)                       |
-| Email     | [nyvralis.noctyra@gmail.com](mailto:nyvralis.contact@gmail.com)             |
+| Email     | [nyvralis.contact@gmail.com](mailto:nyvralis.contact@gmail.com)             |
 
 ---
 
