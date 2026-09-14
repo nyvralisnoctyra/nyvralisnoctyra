@@ -103,7 +103,7 @@ Decision
 
 ---
 
-## 💼 Projects
+## :octocat: Projects
 
 Focused on **practical Data Science and business problems**.
 
