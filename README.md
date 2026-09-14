@@ -134,7 +134,8 @@ An educational Data Science brand focused on:
 [![AI Has Broken Open Source](https://ytcards.demolab.com/?id=qazhWj8kYLo&title=AI+Has+Broken+Open+Source&lang=en&timestamp=1786993393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1545 "AI Has Broken Open Source")](https://www.youtube.com/watch?v=qazhWj8kYLo)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://www.youtube.com/c/fknight?sub_confirmation=1](https://www.youtube.com/@NyvralisNoctyra))
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NyvralisNoctyra?sub_confirmation=1)
+
 
 
 ---
