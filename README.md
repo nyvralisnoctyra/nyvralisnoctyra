@@ -52,7 +52,7 @@ Insight
   ↓
 Decision
 ```
-```
+---
 
 ## 📚 Currently Learning
 
