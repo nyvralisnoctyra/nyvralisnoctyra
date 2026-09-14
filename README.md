@@ -15,7 +15,7 @@ Building skills in **Data Science, Statistics, Python, Machine Learning, Data An
    <a href="https://github.com/nyvralisnoctyra">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Nyvralis%20Noctyra-black?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="mailto:nyvralis.noctyra@gmail.com">
+   <a href="mailto:nyvralis.contact@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
@@ -139,7 +139,7 @@ An educational Data Science brand focused on:
 | X         | [@NNoctyra](https://x.com/NNoctyra)                                         |
 | Threads   | [@nyvralis.noctyra](https://www.threads.com/@nyvralis.noctyra)              |
 | GitHub    | [nyvralisnoctyra](https://github.com/nyvralisnoctyra)                       |
-| Email     | [nyvralis.noctyra@gmail.com](mailto:nyvralis.noctyra@gmail.com)             |
+| Email     | [nyvralis.noctyra@gmail.com](mailto:nyvralis.contact@gmail.com)             |
 
 ---
 
@@ -203,7 +203,7 @@ Poor Decisions
 
 ## ☕ Support
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/nyvralisnoctyra)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/nyvralisnog)
 
 ---
 
