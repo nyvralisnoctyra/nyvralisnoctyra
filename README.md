@@ -1,31 +1,205 @@
-# 💫 About Me:
-## Nyvralis Noctyra<br><br>Data is everywhere — but insight is rare.  <br>I work at the intersection of statistics, machine learning, and structured thinking to transform raw information into meaningful, reliable intelligence.<br><br>My approach to data science goes beyond writing code. I focus on understanding assumptions, identifying bias, reducing measurement error, and building systems that produce trustworthy results. For me, statistics is not optional — it is the foundation of responsible machine learning.<br><br>Currently, I am developing a structured “Statistics for Data Science” learning series designed to simplify complex concepts without sacrificing depth. Alongside this, I build real-world machine learning projects grounded in mathematical clarity rather than trend-driven experimentation. I am also growing Nyvralis Noctyra as a focused and thoughtful data science brand centered on discipline, logic, and precision.<br><br>I am open to collaborating on research-oriented data science projects, open-source ML tools, and statistical modeling challenges that require strong conceptual foundations. I am particularly interested in work that values methodology as much as performance metrics.<br><br>At this stage, I am deepening my knowledge in Bayesian statistics, time series forecasting, machine learning system architecture, and model interpretability. I believe understanding uncertainty and system design is just as important as achieving high accuracy scores.<br><br>If you’d like to connect, feel free to reach out regarding:<br>- Statistical reasoning and hypothesis testing<br>- Type I & Type II errors and decision risk<br>- Data cleaning and preprocessing strategies<br>- Bias detection and measurement reliability<br>- Turning raw datasets into structured analytical systems<br><br>One principle guides my work:<br><br>Wrong Data → Confidently Wrong Results → Poor Decisions.<br><br>Data science, in my view, is structured intelligence.  <br>It is not about complexity — it is about clarity.
+# Nyvralis Noctyra
 
+### Data Scientist | Statistics · Machine Learning · Data-Driven Thinking
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/nyvralisnoctyra.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/nyvralisnoctyra) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61587653513906) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nyvralis.noctyra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nyvralis-noctyra-5419913b3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nyvralis.noctyra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/nyvralisnoctyra/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Nyvralis-Noctyra) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Nice_Mode7241/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32423241/nyvralis-noctyra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@nyvralis.noctyra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/nyvralisnoctyra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NNoctyra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NyvralisNoctyra) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Nyvralis-Noctyra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyvralis.noctyra@gmail.com) 
+> **Data is everywhere. Insight is rare.**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nyvralisnoctyra&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nyvralisnoctyra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyvralisnoctyra&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I work at the intersection of **statistics, machine learning, and structured thinking**, with a focus on transforming raw information into meaningful, reliable intelligence.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nyvralisnoctyra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+My approach to Data Science goes beyond writing code or optimizing models. I care about the foundations behind the results: **assumptions, bias, measurement error, uncertainty, data quality, and methodological reliability**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nyvralisnoctyra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+For me, statistics is not an optional layer of Data Science. It is the foundation that helps us understand whether our conclusions are actually trustworthy.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nyvralisnoctyra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nyvralisnoctyra) 
+## About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am currently deepening my knowledge of **Statistics, Data Science, Machine Learning, and analytical systems** through structured learning and practical projects.
+
+One of my current focuses is developing a **Statistics for Data Science** learning series that explains complex statistical concepts in a clear and practical way without sacrificing conceptual depth.
+
+Alongside learning, I build real-world projects designed around **business problems, analytical reasoning, mathematical foundations, and reproducible workflows**.
+
+I am also developing **Nyvralis Noctyra** as an educational Data Science brand centered on:
+
+* Statistical reasoning
+* Data-driven decision making
+* Machine learning
+* Practical analytics
+* Mathematical clarity
+* Responsible use of data
+* Structured and disciplined learning
+
+My goal is not simply to build models.
+
+My goal is to understand **why a model should be trusted, when it should not be trusted, and how its results can support better decisions.**
+
+---
+
+## What I Care About
+
+### Statistical Thinking
+
+Understanding the assumptions behind analytical methods, interpreting uncertainty, and distinguishing meaningful patterns from misleading conclusions.
+
+### Machine Learning
+
+Building models with a strong understanding of their data, assumptions, limitations, performance, and real-world consequences.
+
+### Data Quality
+
+A sophisticated model cannot compensate for fundamentally unreliable data.
+
+### Interpretability
+
+Understanding *why* a model produces a result is often as important as measuring *how accurately* it performs.
+
+### Decision Making
+
+The ultimate purpose of analysis is not a metric.
+
+It is a **better-informed decision**.
+
+---
+
+## Current Learning Focus
+
+I am currently deepening my knowledge in:
+
+* Bayesian Statistics
+* Hypothesis Testing
+* Statistical Inference
+* Type I & Type II Errors
+* Time Series Forecasting
+* Machine Learning
+* Model Interpretability
+* Data Preprocessing
+* Measurement Reliability
+* Machine Learning System Architecture
+* Statistical Modeling
+
+---
+
+## Research & Collaboration
+
+I am open to collaborating on projects involving:
+
+* Statistical modeling
+* Machine learning
+* Data analysis
+* Research-oriented Data Science
+* Open-source ML tools
+* Data quality and validation
+* Forecasting
+* Analytical systems
+* Business-focused data problems
+
+I am particularly interested in projects where **methodology, reliability, and conceptual understanding matter as much as model performance**.
+
+---
+
+## A Principle I Follow
+
+```text
+Wrong Data
+    ↓
+Wrong Analysis
+    ↓
+Confidently Wrong Results
+    ↓
+Poor Decisions
+```
+
+Good Data Science is therefore not simply about producing predictions.
+
+It is about building a reliable path from **data → evidence → insight → decision**.
+
+> **Data Science is structured intelligence.**
+>
+> **It is not about complexity. It is about clarity.**
+
+---
+
+# Social & Professional Profiles
+
+* **YouTube:** https://www.youtube.com/@NyvralisNoctyra
+* **Instagram:** https://www.instagram.com/nyvralis.noctyra
+* **TikTok:** https://www.tiktok.com/@nyvralis.noctyra
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-aammar-amjad/
+* **X:** https://x.com/NNoctyra
+* **Threads:** https://www.threads.com/@nyvralis.noctyra
+* **GitHub:** https://github.com/nyvralisnoctyra
+* **Email:** [nyvralis.noctyra@gmail.com](mailto:nyvralis.noctyra@gmail.com)
+
+---
+
+# Tech Stack
+
+### Languages & Statistics
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+
+### Data & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Development & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+### Engineering & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
+
+### Design & Visualization
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+# GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=nyvralisnoctyra\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nyvralisnoctyra\&theme=dark\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyvralisnoctyra\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
+
+---
+
+# GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nyvralisnoctyra\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+
+---
+
+# Top Contributions
+
+![](https://github-contributor-stats.vercel.app/api?username=nyvralisnoctyra\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+
+---
+
+# Support My Work
+
+If you find my educational content, projects, or open-source work useful, you can support the continued development of Nyvralis Noctyra.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/nyvralisnoctyra)
+
+---
+
+### Nyvralis Noctyra
+
+**Learn. Think. Analyze. Build.**
+
+*Data → Evidence → Insight → Decision*
