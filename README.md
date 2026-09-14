@@ -129,7 +129,6 @@ An educational Data Science brand focused on:
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![The 80/20 Rule: How to Actually Do Data Science](https://ytcards.demolab.com/?id=D50FtomdbwU&title=The+80%2F20+Rule%3A+How+to+Actually+Do+Data+Science&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=D50FtomdbwU)
-
 [![Why Our World Would End If How to Think Like a Data Scientist Disappeared](https://ytcards.demolab.com/?id=Z4p-PbF3aDk&title=Why+Our+World+Would+End+If+How+to+Think+Like+a+Data+Scientist+Disappeared&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=Z4p-PbF3aDk&t=50s)
 
 <!-- END YOUTUBE-CARDS -->
