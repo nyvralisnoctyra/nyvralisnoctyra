@@ -123,8 +123,6 @@ An educational Data Science brand focused on:
 
 **Data · Statistics · Machine Learning · Python · Technology · Learning**
 
-[**Visit YouTube →**](https://www.youtube.com/@NyvralisNoctyra)
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![The 80/20 Rule: How to Actually Do Data Science](https://ytcards.demolab.com/?id=D50FtomdbwU&title=The+80%2F20+Rule%3A+How+to+Actually+Do+Data+Science&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=D50FtomdbwU)
@@ -132,6 +130,7 @@ An educational Data Science brand focused on:
 
 <!-- END YOUTUBE-CARDS -->
 
+[**Visit YouTube →**](https://www.youtube.com/@NyvralisNoctyra)
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NyvralisNoctyra?sub_confirmation=1)
 
 
