@@ -126,9 +126,6 @@ An educational Data Science brand focused on:
 
 [**Visit YouTube →**](https://www.youtube.com/@NyvralisNoctyra)
 
-
-### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![The 80/20 Rule: How to Actually Do Data Science](https://ytcards.demolab.com/?id=D50FtomdbwU&title=The+80%2F20+Rule%3A+How+to+Actually+Do+Data+Science&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=D50FtomdbwU)
