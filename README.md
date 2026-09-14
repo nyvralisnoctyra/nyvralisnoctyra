@@ -1,6 +1,6 @@
 # Nyvralis Noctyra <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-                            **`Data Scientist in Progress`**
+                            Data Scientist in Progress
 
 **Muhammad Aammar Amjad** — Creator of **Nyvralis Noctyra**.
 
